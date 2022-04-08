@@ -1,9 +1,9 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Gabriel de Oliveira Santos
+-Profissão: Operador de Maquinas
+-Cidad: Mogi das Cruzes
+-O que faz nas horas vaga: Jogar Tenis        
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
